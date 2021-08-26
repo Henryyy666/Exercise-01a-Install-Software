@@ -20,19 +20,19 @@ The following software needs to be installed on your computer:
 
 Once you have completed that process, edit this file (README.md) by pressing the pencil icon.
 
-Once you have finished editing README.md, press the "Commit Changes" button at the bottom of the page. On the main page for this repository, copy the URL (it should be in the form: https://github.com/[username]/Exercise-01a-Install-Software), and submit that as the URL for the exercise on Canvas.
+Once you have finished editing README.md, press the "Commit Changes" button at the bottom of the page. On the main page for this repository, copy the URL (it should be in the form: https://gamedev.stackexchange.com/users/155404/henry-yang?tab=profile), and submit that as the URL for the exercise on Canvas.
 
 The final state of this file should be as follows (replacing my information with yours). If you have any problems installing the software, note it at the bottom:
 
 # Exercise 01a: Install Software
 
 ## My name is:
-Jason Francis
+Henry Yang
 
 ## My gamedev.stackexchange.com user number is:
-5338
+155404
 
 ## My github username is:
-BL-MSCH-C220-F21
+Henry Yang
 
 ## I have installed the software on my computer as a part of the exercise
